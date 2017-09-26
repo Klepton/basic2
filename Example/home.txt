@@ -21,7 +21,7 @@
 <channel>
 <name>Youtube</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/ppanther2/basic2/master/Example2/iptv/livtv.xml</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
