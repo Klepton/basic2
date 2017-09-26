@@ -1,0 +1,6 @@
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,6 @@
+<item>
+<title>Vevo</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
