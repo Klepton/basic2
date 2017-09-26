@@ -1,6 +1,6 @@
 <item>
 <title>Ant Man</title>
-<link></link>
+<link>http://no.link</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
